@@ -6,7 +6,7 @@
 
 ## About Me
 * 🚀 I’m currently learning **how to create an AI-Integrated trading bot**.
-* ⚡ Fun fact: **_The Batman_ is my favorite superhero.**.
+* ⚡ Fun fact: **_The Batman_ is my favorite superhero**.
 
 ---
 
@@ -29,7 +29,7 @@ Here are some of the tools and languages I like to play around with:
 ---
 
 ## 🌐 Connect with Me
-* 📸 Instagram: [@your_handle](https://instagram.com/your_handle) *(Optional)*
+* 📸 Instagram: [@dapkaus](https://instagram.com/dapkaus)
 * 🎮 Discord: `imnotnivz` _("NivZ" is my gamertag, if it's taken - I use "ImNotNivZ")_
 * ✉️ Email: `nojusdpk@gmail.com`
 
