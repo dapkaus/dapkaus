@@ -11,7 +11,7 @@
 ---
 
 ## 🎨 Hobbies & Interests
-When I'm not staring at a screen or debugging code, you can usually find me:
+When I'm not writing code, you can usually find me:
 * 🎮 **Gaming:** Currently playing a lot of `Counter-Strike 2`.
 * 🎵 **Listening to Music:** My taste in music depends on the mood.
 * 🏃‍♂️ **Active Stuff:** I love `Going to the Gym, playing Basketball`.
@@ -30,7 +30,7 @@ Here are some of the tools and languages I like to play around with:
 
 ## 🌐 Connect with Me
 * 📸 Instagram: [@dapkaus](https://instagram.com/dapkaus)
-* 🎮 Discord: `imnotnivz` _("NivZ" is my gamertag, if it's taken - I use "ImNotNivZ")_
+* 🎮 Discord: `imnotnivz` _("NivZ" is my tag, if it's taken - I use "ImNotNivZ")_
 * ✉️ Email: `nojusdpk@gmail.com`
 
 ---
