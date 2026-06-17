@@ -5,20 +5,20 @@
 ---
 
 ## About Me
-* 🚀 I’m currently learning **how to create an AI-Integrated trading bot**.
-* ⚡ Fun fact: **_The Batman_ is my favorite superhero**.
+* I’m currently learning **how to create an AI-Integrated trading bot**.
+* Fun fact: **_The Batman_ is my favorite superhero**.
 
 ---
 
-## 🎨 Hobbies & Interests
+## Hobbies & Interests
 When I'm not writing code, you can usually find me:
-* 🎮 **Gaming:** Currently playing a lot of `Counter-Strike 2`.
-* 🎵 **Listening to Music:** My taste in music depends on the mood.
-* 🏃‍♂️ **Active Stuff:** I love `Going to the Gym, playing Basketball`.
+* **Gaming:** Currently playing a lot of `Counter-Strike 2`.
+* **Listening to Music:** My taste in music depends on the mood.
+* **Active Stuff:** I love `Going to the Gym, playing Basketball`.
 
 ---
 
-## 🛠️ My Toolbox
+## My Toolbox
 Here are some of the tools and languages I like to play around with:
 
 | Category | Technologies |
@@ -28,10 +28,10 @@ Here are some of the tools and languages I like to play around with:
 
 ---
 
-## 🌐 Connect with Me
-* 📸 Instagram: [@dapkaus](https://instagram.com/dapkaus)
-* 🎮 Discord: `imnotnivz` _("NivZ" is my tag, if it's taken - I use "ImNotNivZ")_
-* ✉️ Email: `nojusdpk@gmail.com`
+## Connect with Me
+* Instagram: [@dapkaus](https://instagram.com/dapkaus)
+* Discord: `imnotnivz`
+* Email: `nojusdpk@gmail.com`
 
 ---
 _"There is nothing impossible to him, who will try." - Alexander The Great_
